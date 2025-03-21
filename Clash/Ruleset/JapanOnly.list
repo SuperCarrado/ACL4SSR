@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,cygames.jp
 # buyee
 DOMAIN-SUFFIX,buyee.jp
 
+# DLSite
+DOMAIN-SUFFIX,dlsite.com
+
 # others
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,identrust.com
