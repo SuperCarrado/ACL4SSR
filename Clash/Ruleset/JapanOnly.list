@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,buyee.jp
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,api.ipify.org
+
+# 所有 .jp 域名
+DOMAIN-SUFFIX,jp
