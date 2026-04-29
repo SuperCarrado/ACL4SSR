@@ -53,3 +53,5 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-KEYWORD,antigravity
+# 可疑的AI域名
+DOMAIN-SUFFIX,baseten.co
